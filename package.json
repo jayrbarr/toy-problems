@@ -1,0 +1,24 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jayrbarr/toy-problems.git"
+  },
+  "author": "Jay Barr <jayrbarr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayrbarr/toy-problems/issues"
+  },
+  "homepage": "https://github.com/jayrbarr/toy-problems#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.0",
+    "sinon": "^9.0.2"
+  }
+}
